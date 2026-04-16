@@ -8,6 +8,8 @@
 
 因为打码和ip的问题，最后图片生成失败了，只能是演示安装过程
 
+项目地址：https://github.com/TheSmallHanCat/flow2api
+
 推荐服务器部署，不要选择国内地区，选择Linux版本Docker上手快
 
 腾讯云新加坡，硅谷，东京地区价格是199元一年，2核4G30M带宽，60GBSSD盘 1.5T月流量，推荐硅谷地区CN2线路↓↓↓，系统选Ubuntu
